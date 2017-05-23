@@ -1,0 +1,28 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "burger hw app V2",
+  "main": "Eat-Da-Burger.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.8",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "devour",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "burger1"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "JC",
+  "license": "ISC"
+}
